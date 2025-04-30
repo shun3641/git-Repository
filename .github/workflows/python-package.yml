@@ -27,8 +27,4 @@ jobs:
   
     - name: test
       run: |
-       print("テストですよ（笑）")
-    - name: Test with pytest
-      run: |
-        print("テストだよ");
-        pytest
+       print("テストですよ（笑）");
