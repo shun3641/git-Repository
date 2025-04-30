@@ -26,5 +26,4 @@ jobs:
         python-version: ${{ matrix.python-version }}
   
     - name: test
-      run: |
-       print("テストですよ（笑）");
+      run: print("テストですよ（笑）");
