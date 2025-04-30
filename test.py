@@ -1,4 +1,4 @@
-a = "Hello"
+a = "Hello "
 a += "world"
 a += " This is"
 a += " fantasy"
